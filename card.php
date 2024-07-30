@@ -16,9 +16,9 @@ echo"Gerado um número aleatório entre 0 e 100...<br>
 O valor gerado foi<strong> $gerado</strong>
 <p>
 ";
-
 ?>
- <button onclick="javascript:history.go(-0)">&#128260; Gerar outro</button>
+
+ <button onclick="javascript:window.location.href='index.html'">&#11013; Voltar</button>
 
 
     </main>
