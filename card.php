@@ -14,8 +14,7 @@
 $gerado =rand(0,100);
 echo"Gerado um número aleatório entre 0 e 100...<br>
 O valor gerado foi<strong> $gerado</strong>
-<p>
-";
+<p>";
 ?>
 
  <button onclick="javascript:window.location.href='index.html'">&#11013; Voltar</button>
